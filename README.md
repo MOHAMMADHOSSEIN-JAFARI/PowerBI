@@ -16,4 +16,6 @@ summary(full.model)  the dot is important hear
 part 7 spoke about dummy vairables 
 vif for  collinearity 
 
-
+# 3-May
+Alpha, confidence level, critical value 
+If the P-value is less than alpha (or equal to) , then the null hypothesis is rejected in favor of the alternative hypothesis. And, if the P-value is greater than alpha , then the null hypothesis is not rejected.
