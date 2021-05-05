@@ -130,3 +130,5 @@ LL lower limit
 UL upper limit 
 I do not have a new uonit but 
 fitst ,manually and an the same time we have acesst to the library "booststrap" 
+# 5-May
+reading the slides of bootstrap and cross validation. it definitely needs reviewing 
