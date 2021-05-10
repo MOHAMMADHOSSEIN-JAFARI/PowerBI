@@ -132,3 +132,22 @@ I do not have a new uonit but
 fitst ,manually and an the same time we have acesst to the library "booststrap" 
 # 5-May
 reading the slides of bootstrap and cross validation. it definitely needs reviewing 
+# 6-May
+when the coefficient is near to zweor u
+reduce the variance of 
+PLS this reduction consider the directon of y and x not like PCA which is just for x 
+degree of freedom is the # of parameters 
+forward- you can not delete the variable you have chosen before 
+always the test erroir is largertr than training error 
+ th unique way does not exist. more than criteria aic bic and r2 
+ ? speak which is better
+ not necessary:
+ shrinkage: ridge and lasso,  intermediate like elastic net, application
+ perersent: focus on ridge regression 
+ Ridge and regression slides jsut for studies 
+ use some kind fo constraints 
+ ridge regression on original value 
+ L2 norm for ridge coeeficient and l2 norm of ols 
+ the bias variance tradeoff 
+ really useful 
+ 
