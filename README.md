@@ -151,3 +151,64 @@ always the test erroir is largertr than training error
  the bias variance tradeoff 
  really useful 
  
+# 11-May 
+when wwe have many p, infact we can increase the R2 in trainng data but in the large p, ridge and lasso 
+ridge regression coefficient, they are not invariant with scale. 
+standardized, 
+standardized false
+look the previous example, 
+the LASSO
+instead of L2 NORM we use l2 norm. 
+lasso and ridge: gurantee the level of the 
+the difference. int he calse of the ridge
+the lasso some b is equal to 0. 
+ols solution jsut 4
+s in number 36 is cost 
+38 quite identically result for bothe apppproach 
+jsut some variables , best predictors , 
+additive model, ridge regression, avoid their fitting
+do prediction: apply ridge 
+ when p is large variables are really corrolated
+there is a theory for which I know there is a relation between 
+only to variables ae corolateed 
+
+#### i you are able to, bivariate, when you want to decide which model is better for robustness check, the more importatn think is the variablity. You know how noisy your variable is. uncertainity is always 
+you can check for single individual 
+the most importatn part of a data scientist is the data manipulation
+Cross-VALIDATION 
+-Use the split to choose the better, consider all the data
+- I do not need regression, high dimentionality problem
+- decide: a part to be more in 
+- approach a problem in a data scientist way.
+- adv and disadvan of 
+- less models and well commented of a topic.
+- details of ridge and lasso 
+- why lasso is better in the casesof less variables 
+- Elastic net 
+- - the approach the ridge use 
+- - we will represent: at the end 
+only a small number of 
+- principal component regression 
+- the relation between principal component and dimention reduction
+- principal component 
+- chanmimatrics, we have always situation p than n can not ols,
+- ols new dimention x matrix by a of vairables really corrolated vaorianles, I can not appraoch 
+- a lot information that describe the same things. there is not an observed to describle to 
+- typically questioners, test food understaned if the probability not chemical, there is no major that, the relation of single attribute but about some dimention
+- the dimention of increase 
+- - I have a lot of moninfested variables
+- factor analysis: unsuperwised approach 
+- two different method: 
+- major Vieef collinearity 
+- m has to be less than p 
+- first includes the largest 
+- pca method gurantee according to the 
+- the second one jsut can explian the residual part!!!!!!!!!
+- what is bias, whst is bias-variance and etc...
+- best that explain x 
+- -reduction is not really corolated to 
+- - reduction is not really 
+- -- i do the regression model 
+- phy1j is the weight 
+- in the lab section I will discuss. 
+- PAartial least , the reserach 
