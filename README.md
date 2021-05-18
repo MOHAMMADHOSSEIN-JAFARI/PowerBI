@@ -27,6 +27,8 @@ min square for
 exist other method of error 
 classifation 
 likelihood 
+## 18-May 
+
 regularization 
 test set is different form the validation set 
 training set and vailsarion set 
@@ -212,3 +214,69 @@ only a small number of
 - phy1j is the weight 
 - in the lab section I will discuss. 
 - PAartial least , the reserach 
+## 18-may 
+pros and cons- very is to interpret, everybody can understand the resuot 
+Typically representation is easy. Combining a large number of trees, if we want one tree .
+Compare the regression with others- svm is not covered here.
+
+the mnean of the responsible variable in thsi gorup 
+Anova: between variance, grid search
+- test other vairables spilit that produce means that are statistically different. There are some 
+- in general we can have some 
+- variable does not discriminate 
+- sometimes trees: 
+- knn: we need a more depth model 
+- -risk of overfitting 
+- rank of featrues 
+- what are the optiimal number of each group 
+- non linear relationship, it is not easy, intutive way to  describle non-linearities
+- interperation of results
+- mean of the response variable 
+- differe variabliity
+- classification: the same prediction 
+- see exactly the value, in two regions
+- vairance is begier than the mean, the predicion is not reliable 
+- tOP Down greedy approach: testing 
+- chapter review of the decision tree. there is no other method, not binary 
+- greeds can nbe changeed 
+- the largest distance.
+- test all the vairables. min of the trianing 
+- strongly non linear 
+- if the tree has many nodes you cna face over fitting. the approach prune a tree. instead of considering
+- which final node we decide. According to the data. Basically we can not test. one part is the minimuzation, lest number of final node, select different level on alpha. 
+-Train ever each result. Return to choose thev alue of alpha. 
+rate the performance model, in orther to calculate 
+having ghe idea of the variablility 
+heterogiity for analyzing the cathegorical Gini 
+variablility 
+cathegories- Gini Variables- study the distribution how many poor person can be based 
+heteroginity based on 
+maximum concentration 33 region, Gini Index: the value of the 
+in teh decision tree, we want to spilit that maximize the difference the 
+the antropy 
+gini index all the close 
+reduce the impurity 
+- chid is not binary spilit, k-squre is Maximum when the conditional 
+- Maximize the k-sqaure: spilit for each distribution 
+- library, not jsut yes or now, and the percentage, 
+- the same value, and really important, when you are asked 
+- the largertst test error 
+- the algorithm choose, teh accuracy of the test increase. 
+- if the variable is ordered. Two cathegories. Check the two cathegories 
+- trees better than linear. the trees can 
+- linear and tree depends on. 
+- the accuracy.
+- trees problem is variability. th bagging use boostrap,get the meaning 
+- generate, the things that happen all the samples can be related. pagging automatically. when I boostrap b times form the same set of data, in each bootstrapping sample, terminology, out of bag, hat is associated to prediction, each b traing set, be different estimation. At the end, we need to have.
+- 150 is enough. 
+- Random fOREST: OOB: what is the main.
+- if the variable is corrolateed the 
+- the simple mean is 
+- add the covariance. original variable, we suppose, random forest as bagging, when the number of predictos inside each m
+- when m is equal to 
+- the idea 
+- m is the square root of p. At the end, when the varuable has differen variable with the 
+- random forest a lot of computations. nice representation of tree but the bad point is that. That 
+- boosting does 
+- not use bootstrap. a procedure learn slowly, learn step by step. nested approach
+- boosting in rally situations it is the best, 
