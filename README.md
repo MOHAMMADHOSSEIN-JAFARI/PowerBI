@@ -280,3 +280,6 @@ reduce the impurity
 - boosting does 
 - not use bootstrap. a procedure learn slowly, learn step by step. nested approach
 - boosting in rally situations it is the best, 
+# 31-May
+You have to do analysis with different options in 
+are realy in different options the clusters are neutral or not. 
