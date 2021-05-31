@@ -284,4 +284,4 @@ reduce the impurity
 You have to do analysis with different options in 
 are realy in different options the clusters are neutral or not. If I am able to reduce the dimentionality. PCA can be used to clustring.
 How many clustting ways///; advanced multivariate clsutiring. Other k-means'; we wantt to calculate the variriablitityance. Spilit the total va. Compare the minimum of clsuters: 
-Post Analysis, you have to explore.
+Post Analysis, you have to explore. Manoies distance. In GENERAL, the problem is done, Eif you planc=uclidian distance is by defult. if you plan to use eclidian measute, it is better to standardized the matter. if K increase the distance increase. 
