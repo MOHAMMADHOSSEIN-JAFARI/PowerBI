@@ -286,3 +286,6 @@ are realy in different options the clusters are neutral or not. If I am able to 
 How many clustting ways///; advanced multivariate clsutiring. Other k-means'; we wantt to calculate the variriablitityance. Spilit the total va. Compare the minimum of clsuters: 
 Post Analysis, you have to explore. Manoies distance. In GENERAL, the problem is done, Eif you planc=uclidian distance is by defult. if you plan to use eclidian measute, it is better to standardized the matter. if K increase the distance increase. 
 channel  is an outlier. Gower is for mixed data type. 
+# 5-June
+https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/key-results/
+this explains about the interpret principal component analysis. 
