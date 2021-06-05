@@ -288,4 +288,7 @@ Post Analysis, you have to explore. Manoies distance. In GENERAL, the problem is
 channel  is an outlier. Gower is for mixed data type. 
 # 5-June
 https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/key-results/
-this explains about the interpret principal component analysis. 
+this explains about the interpret principal component analysis. infering more PCA: https://online.stat.psu.edu/stat505/lesson/11/11.3
+Loading Plot :  https://blogs.sas.com/content/iml/2019/11/04/interpret-graphs-principal-components.html
+
+
