@@ -290,5 +290,9 @@ channel  is an outlier. Gower is for mixed data type.
 https://support.minitab.com/en-us/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/key-results/
 this explains about the interpret principal component analysis. infering more PCA: https://online.stat.psu.edu/stat505/lesson/11/11.3
 Loading Plot :  https://blogs.sas.com/content/iml/2019/11/04/interpret-graphs-principal-components.html
+# 6-June
+https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92#:~:text=The%20optimal%20number%20of%20clusters%20k%20is%20the,of%202%20clusters.%20The%20Sum%20of%20Squares%20Method
+this is really good explaining the matter: 
+https://www.statology.org/hierarchical-clustering-in-r/
 
 
